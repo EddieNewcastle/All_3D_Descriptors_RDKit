@@ -1,0 +1,10 @@
+name: CrippenCalculations
+channels:
+  - rdkit
+  - anaconda
+  - defaults
+dependencies:
+  - scikit-learn-0.20.3-py37h343c172_0
+  - python-3.6.7-h33f27b4_1
+  - rdkit-2020.09.1.0-py37h3d1ada6_1
+
