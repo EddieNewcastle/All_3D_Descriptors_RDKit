@@ -1,0 +1,7 @@
+CC=C1C=C(c2ccc(S(N)(=O)=O)cc2)C(CCC(=O)Nc2cccnc2)=N1
+CCC(C)N(CCC(=O)Nc1cccnc1)C(C)c1ccc(S(N)(=O)=O)cc1
+NS(=O)(=O)c1ccc(-c2ccccc2CCC(=O)Nc2cccnc2)cc1
+CC1CCCC(c2ccc(S(N)(=O)=O)cc2)=C1CCC(=O)Nc1cccnc1
+Cc1ccc(-c2ccc(S(N)(=O)=O)cc2)c(CCC(=O)Nc2cccnc2)c1
+NS(=O)(=O)c1ccc(-c2ccccc2CCC(=O)Nc2cccnc2)cc1
+NS(=O)(=O)c1ccc(-c2ccccc2CCC(=O)Nc2cccnc2)cc1
