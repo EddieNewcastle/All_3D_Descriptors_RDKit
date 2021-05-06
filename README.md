@@ -1,5 +1,5 @@
-# Crippen-Mol
-Example how to calculate CrippenMR using RDKit, Calculate molecular formulas and Calcuate the # of atoms per smile including Hydrogens.
+# 3D Descriptors
+Example how to calculate the 3D descriptors in RDKit.
 
 Just load https://mybinder.org and paste the URL https://github.com/EddieNewcastle/Crippen-Mol into the top and hit LAUNCH
 
