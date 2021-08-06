@@ -1,4 +1,4 @@
-name: chemberta_env
+name: All3DDescriptors_env
 channels:
   - conda-forge
   - rdkit
